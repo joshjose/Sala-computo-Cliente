@@ -25,7 +25,7 @@ import javax.swing.JOptionPane;
  */
 public class Sala2_cliente {
     
-////////////////////socket connection///////////////////
+////////////////////socket connection/////////////////// 
  String username= " ";
     ArrayList<String> users = new ArrayList();
     int port = 1995;
@@ -213,6 +213,6 @@ public class Sala2_cliente {
      }
     
 }
- 
+ //add changes to github
   
      
