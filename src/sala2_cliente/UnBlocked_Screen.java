@@ -61,8 +61,6 @@ public class UnBlocked_Screen extends javax.swing.JFrame {
         jLabel1 = new javax.swing.JLabel();
         jl_comp = new javax.swing.JLabel();
 
-        setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
-
         jp_chrono.setBackground(new java.awt.Color(255, 153, 51));
         jp_chrono.setPreferredSize(new java.awt.Dimension(250, 100));
         jp_chrono.setRequestFocusEnabled(false);
